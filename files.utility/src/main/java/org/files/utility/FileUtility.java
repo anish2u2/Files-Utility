@@ -1,7 +1,8 @@
-package org.file.processing.utility;
+package org.files.utility;
 
 import java.io.File;
-import org.log.logger.LoggerAPI;
+
+import org.logger.LoggerAPI;
 
 public class FileUtility {
 
